@@ -28,14 +28,75 @@ Grading
 
 Grading for this class will be based on the following assignments:
 
-| ACTIVITIES | POINTS |
-| --- | --- |
-| 3 response papers @ 10 points each | 30 points |
-| Feedback essay on the Chlorine game | 15 points |
-| Short statement evaluating the Copenhagen negotiations | 10 points |
-| Outline of the final paper | 10 points |
-| Summary presentation of the final paper | 15 points |
-| Final paper | 35 points 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 response papers @ 10 points each
+{{< tdclose >}}
+{{< tdopen >}}
+30 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Feedback essay on the Chlorine game
+{{< tdclose >}}
+{{< tdopen >}}
+15 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short statement evaluating the Copenhagen negotiations
+{{< tdclose >}}
+{{< tdopen >}}
+10 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Outline of the final paper
+{{< tdclose >}}
+{{< tdopen >}}
+10 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Summary presentation of the final paper
+{{< tdclose >}}
+{{< tdopen >}}
+15 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+35 points
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Maximum possible = 115 points:  
 90 to 115 = A  
